@@ -1,4 +1,4 @@
-### Hi there 👋
+from World import AzizVirus
 
 <!--
 **AzizVirus/AzizVirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
