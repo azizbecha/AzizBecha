@@ -26,5 +26,3 @@ from World import AzizVirus
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizvirus&show_icons=true&locale=en&layout=compact" alt="azizvirus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizvirus&show_icons=true&locale=en" alt="azizvirus" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizvirus&" alt="azizvirus" /></p>
