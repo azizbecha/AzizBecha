@@ -9,7 +9,7 @@ from World import AzizVirus
 
 - 🔭 I’m currently working on [Moon Meet](https://github.com/AlucardTn/MoonMeet)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AzizVirus?tab=repositories](https://github.com/AzizVirus?tab=repositories)
 
