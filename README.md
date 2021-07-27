@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" alt="cover" />
 </div>
 
-<h1> Hello <code>Developers/</code> ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello <code>Developers/</code> ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> </h1>
 <p>
 
 <img src="https://komarev.com/ghpvc/?username=azizvirus&label=Profile%20views&color=0e75b6" />
