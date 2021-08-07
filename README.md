@@ -3,11 +3,11 @@
 </div>
 
 <h1> Hello <code>Developers/</code> ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> </h1>
-<p>
-
+<h3>
+Profile Visits Count:<br /><br />
 <img src="https://komarev.com/ghpvc/?username=azizvirus&label=Profile%20views&color=0e75b6" />
 
-</p>
+</h3>
 <h3> Hi! My name is Aziz Becha. Thank You for taking the time to view my GitHub Profile :smile: 
 </h3>
 
