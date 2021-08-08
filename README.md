@@ -16,7 +16,7 @@ Profile Visits Count:<br /><br />
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Recetti Project
+- 🔭 I’m currently working on Confidential Projects.
 
 - 🌱 I’m currently learning React Native & Vue.js 
 
