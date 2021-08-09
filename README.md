@@ -20,7 +20,7 @@ Profile Visits Count:<br /><br />
 
 - 🌱 I’m currently learning React Native & Vue.js 
 
-- 👯 I’m looking to collaborate on Recetti 
+<!-- 👯 I’m looking to collaborate on Recetti --> 
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
